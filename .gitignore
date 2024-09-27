@@ -6,3 +6,5 @@ tmp/
 
 .venv/
 __pycache__/
+_reqall.txt
+_note.txt
