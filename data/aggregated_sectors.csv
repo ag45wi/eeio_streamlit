@@ -1,0 +1,186 @@
+Aggregated sectors,Sector_Number,Sector_CodeName
+Energy,37,037/Coal and lignite
+Energy,38,038/Crude oil
+Energy,39,039/Natural gas and geothermal
+Energy,145,145/Electricity
+Energy,146,"146/Products of natural and artificial gas, supply of steam/hot water, cold air and ice products"
+Agriculture ,1,001/Paddy
+Agriculture ,2,002/Corn
+Agriculture ,3,003/Sweet potato
+Agriculture ,4,004/Cassava
+Agriculture ,5,005/Other tubers
+Agriculture ,6,006/Peanuts
+Agriculture ,7,007/Soybean
+Agriculture ,8,008/Other nuts
+Agriculture ,9,009/Grains and other foodstuffs
+Agriculture ,10,010/Vegetables
+Agriculture ,11,011/Decorative plants
+Agriculture ,12,012/Sugarcane
+Agriculture ,13,013/Tobacco
+Agriculture ,14,014/Fiber plant
+Agriculture ,15,015/Other plantations
+Agriculture ,16,016/Fruits
+Agriculture ,17,017/Biopharmaceutical plants
+Agriculture ,18,018/Rubber
+Agriculture ,19,019/Coconut
+Agriculture ,20,020/Palm oil
+Agriculture ,21,021/Coffee
+Agriculture ,22,022/Tea
+Agriculture ,23,023/Cocoa
+Agriculture ,24,024/Clove
+Agriculture ,25,025/Cashew
+Agriculture ,59,059/Copra
+Wood and forest products,31,031/Wood
+Wood and forest products,32,032/Other forest products
+Wood and forest products,86,086/Sawn and processed wood
+Wood and forest products,87,087/Plywoods
+Wood and forest products,88,088/Building materials from wood
+Wood and forest products,89,"089/Other products of wood, cork, bamboo and rattan"
+Wood and forest products,90,090/Pulp
+Wood and forest products,91,091/Paper
+Wood and forest products,92,092/Paper and cardboard
+Fisheries,33,033/Fish
+Fisheries,34,034/Shrimp and other crustaceans
+Fisheries,35,035/Other aquatic biota
+Fisheries,36,036/Seaweeds
+Mining ,40,040/Iron sand and iron ore
+Mining ,41,041/Tin ore 
+Mining ,42,042/Bauxite ore
+Mining ,43,043/Copper ore 
+Mining ,44,044/Nickel ore
+Mining ,45,045/Other metal mining 
+Mining ,46,046/Gold ore 
+Mining ,47,047/Silver ore 
+Mining ,48,048/Minerals
+Mining ,49,049/Non-metal minerals
+Mining ,50,050/Coarse salt
+Mining ,52,052/Other mining and quarrying services 
+"Food, beverage and food processing ",26,026/Livestock and their products (except fresh milk)
+"Food, beverage and food processing ",27,027/Fresh milk
+"Food, beverage and food processing ",28,028/Poultry and their products 
+"Food, beverage and food processing ",29,029/Other animal care products
+"Food, beverage and food processing ",53,053/Slaughterhouse
+"Food, beverage and food processing ",54,054/Meat processing and preservation products
+"Food, beverage and food processing ",55,055/Dried fish and salted fish
+"Food, beverage and food processing ",56,056/Fish processing and preservation products
+"Food, beverage and food processing ",57,057/Fruit and vegetables (processed and preserved) 
+"Food, beverage and food processing ",58,058/Animal and vegetables oil
+"Food, beverage and food processing ",60,060/Food and drinks from milk
+"Food, beverage and food processing ",61,061/Other flour
+"Food, beverage and food processing ",62,062/Wheat and meslin flour
+"Food, beverage and food processing ",63,063/Rice milling products
+"Food, beverage and food processing ",64,"064/Bread, biscuits"
+"Food, beverage and food processing ",65,065/Sugar
+"Food, beverage and food processing ",66,066/Chocolate and confectionery
+"Food, beverage and food processing ",67,"067/Noodles, macaroni and pasta"
+"Food, beverage and food processing ",68,068/Processed coffee
+"Food, beverage and food processing ",69,069/Processed tea
+"Food, beverage and food processing ",70,070/Processed soybean
+"Food, beverage and food processing ",71,071/Other foods
+"Food, beverage and food processing ",72,072/Processed pet food
+"Food, beverage and food processing ",73,073/Alcohol beverages
+"Food, beverage and food processing ",74,074/Non-alcohol beverages
+"Food, beverage and food processing ",75,075/Cigarette
+"Food, beverage and food processing ",76,076/Processed tobacco
+Chemical industries ,95,095/Oil and gas refinery products
+Chemical industries ,96,096/Basic chemicals (except fertilizer)
+Chemical industries ,97,097/Fertilizers
+Chemical industries ,98,"098/Synthetic resin, plastic material and synthetic fiber "
+Chemical industries ,99,099/Pesticide
+Chemical industries ,100,100/Paint and printing ink
+Chemical industries ,101,101/Varnish and lacquer 
+Chemical industries ,102,102/Soap and cleaning agents 
+Chemical industries ,103,103/Cosmetics
+Chemical industries ,104,104/Other chemicals
+Chemical industries ,105,105/Pharmaceuticals
+Metal and heavy industries ,114,114/Iron and steels
+Metal and heavy industries ,115,115/Non-ferrous base metals
+Metal and heavy industries ,116,116/Metal casting products
+Metal and heavy industries ,117,117/Metal building materials 
+Metal and heavy industries ,118,"118/Weapons and ammunition, metallurgy and metalworking services"
+Metal and heavy industries ,119,"119/Metal kitchen, carpentry, household and office furniture "
+Metal and heavy industries ,120,120/Other metal products
+"Building, road and constructions",112,"112/Clay, ceramics and porcelain products"
+"Building, road and constructions",113,113/Cement 
+"Building, road and constructions",149,149/Residential and non-residential buildings 
+"Building, road and constructions",150,"150/Electrical, gas, drinking water and communication buildings and installations"
+"Building, road and constructions",151,151/Agricultural infrastructure
+"Building, road and constructions",152,"152/Road, bridge and harbor"
+"Building, road and constructions",153,153/Other buildings 
+Textiles ,77,077/Yarn
+Textiles ,78,078/Textile
+Textiles ,79,"079/Tapestry, rope, and other floor coverings "
+Textiles ,80,080/Textiles other than fabrics and garments
+Textiles ,81,081/Knitted products
+Textiles ,82,082/Apparel
+Textiles ,83,083/Leather preservation and tanning products
+Textiles ,84,084/Leather goods
+Textiles ,85,085/Footwear
+Electronics ,121,"121/Electronics, communication and their equipments"
+Electronics ,123,123/Generators and electric motors
+Electronics ,124,124/Electrical machines and equipment 
+Electronics ,125,125/Battery and accumulator
+Electronics ,126,126/Other electrical equipments
+Electronics ,127,127/Electrical appliance for household
+Electronics ,131,131/Motor vehicles (except motorcycles)
+Transportation,135,135/Other transportations
+Transportation,136,136/Motorcycles 
+Transportation,158,158/Land transportation services other than rail transport 
+Transportation,159,159/Sea freight services 
+Transportation,160,"160/River, lake and ferry transport services "
+Transportation,161,161/Air freight services 
+Services ,30,"030/Agriculture, forestry and fisheries services"
+Services ,51,051/Petroleum and natural gas mining services 
+Services ,132,132/Ships and their repair services
+Services ,133,133/Trains and their repair services
+Services ,134,134/Aircrafts and their repair services 
+Services ,144,"144/Maintenance and repair services for manufactured metal products, machinery and equipment"
+Services ,155,155/Car and motorcycle repair and maintenance 
+Services ,157,157/Rail transport services 
+Services ,162,162/Transportation support services 
+Services ,163,163/Postal and courier services 
+Services ,164,164/Accommodation services
+Services ,165,165/Food and drink services
+Services ,167,"167/Broadcasting and programming services, film and sound recording "
+Services ,168,168/Telecommunication services 
+Services ,169,169/Computer and information technology consulting services
+Services ,170,170/Banking financial services 
+Services ,171,171/Insurance services 
+Services ,172,172/Pension services 
+Services ,173,173/Other financial institution services 
+Services ,174,174/Real estate services
+Services ,175,"175/Professional, scientific and technical services "
+Services ,176,176/Rental and business support services 
+Services ,177,177/General government services 
+Services ,178,178/Government education services 
+Services ,179,179/Government health services 
+Services ,180,180/Other government services 
+Services ,181,181/Private education services 
+Services ,182,182/Health services and private social activities 
+Services ,183,"183/Arts, entertainment and recreation services "
+Services ,185,185/Other services 
+Others,93,093/Printing
+Others,94,094/Other goods from non-metal materials 
+Others,106,106/Traditional medicine
+Others,107,107/Tire 
+Others,108,108/Crumb and smoked rubber
+Others,109,109/Other goods from rubber
+Others,110,110/Plastics items 
+Others,111,111/Glass and glassware 
+Others,122,"122/Measuring instruments, photography, optics and clocks"
+Others,128,128/Starting machine
+Others,129,"129/Machinery for office and accounting purposes, and parts and equipment thereof"
+Others,130,130/Other machines and equipments
+Others,137,137/Non-metal home and office furnitures
+Others,138,138/Jewelry
+Others,139,139/Musical instruments 
+Others,140,140/Sports equipment 
+Others,141,141/Toys and games 
+Others,142,142/Medical equipments
+Others,143,143/Other processing industry products
+Others,147,147/Water supply
+Others,148,148/Waste and recycling management 
+Others,154,154/Cars and motorcycles trade 
+Others,156,156/Trade other than cars and motorcycles 
+Others,166,166/Publication
+Others,184,184/Repair of other household and personal items 
